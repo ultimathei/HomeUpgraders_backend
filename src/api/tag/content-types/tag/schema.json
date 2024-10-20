@@ -14,9 +14,6 @@
   "attributes": {
     "title": {
       "type": "string"
-    },
-    "color": {
-      "type": "string"
     }
   }
 }
